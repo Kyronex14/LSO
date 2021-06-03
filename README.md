@@ -13,3 +13,9 @@ LSO, also known as Linux Swap Operator, is a software with both GUI and terminal
 Devolopers = Kyronex14, AlperBayraktar
 
 Contributors = efe3535
+
+
+Usage
+
+sudo chmod +x lso-gui.py/lso.py
+sudo python lso-gui.py/lso.py
