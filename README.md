@@ -12,4 +12,4 @@ LSO, also known as Linux Swap Operator, is a software with both GUI and terminal
 
 Devolopers = Kyronex14, AlperBayraktar
 
-contributors = efe3535
+Contributors = efe3535
