@@ -6,8 +6,9 @@ Emeği geçenler = efe3535
 
 Kullanımı
 
-sudo chmod +x lso-gui.py/lso.py
-sudo python lso-gui.py/lso.py
+sudo chmod +x lso-gui.py / lso.py
+
+sudo python lso-gui.py / lso.py
 
 
 
@@ -23,8 +24,9 @@ Contributors = efe3535
 
 Usage
 
-sudo chmod +x lso-gui.py/lso.py
-sudo python lso-gui.py/lso.py
+sudo chmod +x lso-gui.py / lso.py
+
+sudo python lso-gui.py / lso.py
 
 
 
