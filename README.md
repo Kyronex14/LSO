@@ -4,6 +4,12 @@ Yapımcılar = Kyronex14, AlperBayraktar
 
 Emeği geçenler = efe3535
 
+Kullanımı
+
+sudo chmod +x lso-gui.py/lso.py
+sudo python lso-gui.py/lso.py
+
+
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -19,3 +25,6 @@ Usage
 
 sudo chmod +x lso-gui.py/lso.py
 sudo python lso-gui.py/lso.py
+
+
+
