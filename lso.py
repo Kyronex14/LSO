@@ -68,7 +68,7 @@ def add_swap(size):
             writer.write("/swapfile none swap defaults 0 0")
     except Exception as e:
         if language == '1':
-            print('There was an error while adding the swap.')
+            print('There was an error while deleting the swap.')
             print('Error description:', e)
         else:
             print('Swap silinirken bir hata çıktı.')
