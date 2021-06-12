@@ -9,8 +9,9 @@ LSO, diğer adıyla Linux Swap Operator Linux işletim sistemleri için Swap ala
 >efe3535
 
 ## Kullanım
-sudo chmod +x lso-gui.py / lso.py
+```sudo chmod +x lso-gui.py / lso.py
 sudo python lso-gui.py / lso.py
+```
 
 
 <hr>
@@ -24,8 +25,9 @@ LSO, also known as Linux Swap Operator, is a software with both GUI and terminal
 >efe3535
 
 ## Usage
-sudo chmod +x lso-gui.py / lso.py
+```sudo chmod +x lso-gui.py / lso.py
 sudo python lso-gui.py / lso.py
+```
 
 
 <hr>
