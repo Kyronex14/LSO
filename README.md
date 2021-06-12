@@ -1,53 +1,40 @@
-LSO, diğer adıyla Linux Swap Operator Linux işletim sistemleri için Swap alanını yönetebileceğiniz hem GUİ, hem terminal versiyonu olan bir yazılımdır.
+# LSO - Linux Swap Operator
 
-Yapımcılar = Kyronex14, AlperBayraktar
+# Türkçe - LSO Nedir?
+LSO, diğer adıyla Linux Swap Operator Linux işletim sistemleri için Swap alanını yönetebileceğiniz hem GUI, hem terminal versiyonu olan bir yazılımdır.</p>
 
-Emeği geçenler = efe3535
+## Yapımcılar
+>Kyronex14, AlperBayraktar
+## Emeği geçenler
+>efe3535
 
-Kullanımı
-
+## Kullanım
 sudo chmod +x lso-gui.py / lso.py
-
 sudo python lso-gui.py / lso.py
 
-GUİ Versiyonu için:
 
-pip install tk
+<hr>
 
-
-------------------------------------------------------------------------------------------------------------------
-
-
+# English - What Is LSO?
 LSO, also known as Linux Swap Operator, is a software with both GUI and terminal versions that you can manage the Swap area for Linux operating systems.
 
-Devolopers = Kyronex14, AlperBayraktar
+## Developers
+>Kyronex14, AlperBayraktar
+## Contributors 
+>efe3535
 
-Contributors = efe3535
-
-
-Usage
-
+## Usage
 sudo chmod +x lso-gui.py / lso.py
-
 sudo python lso-gui.py / lso.py
 
-For GUI Version:
 
-pip install tk
+<hr>
 
+# GUI:
 
+![photo-gui-1](https://user-images.githubusercontent.com/85232699/120631339-713aeb00-c470-11eb-9666-35880e352169.png)    ![photo-gui-2](https://user-images.githubusercontent.com/85232699/120631353-74ce7200-c470-11eb-99de-93f5d53a7a55.png)
 
-------------------------------------------------------------------------------------------------------------------
-
-
-GUİ Version Photo:
-
-![Ekran görüntüsü_2021-06-03_13-33-19](https://user-images.githubusercontent.com/85232699/120631339-713aeb00-c470-11eb-9666-35880e352169.png)
-
-![Ekran görüntüsü_2021-06-03_13-33-31](https://user-images.githubusercontent.com/85232699/120631353-74ce7200-c470-11eb-99de-93f5d53a7a55.png)
-
-
-
+![photo-gui-3](https://cdn.discordapp.com/attachments/847073470948704296/853346506533634068/lso.png)    ![photo-gui-4](https://cdn.discordapp.com/attachments/847073470948704296/853346509243547648/lso2.png)
 
 
 
